@@ -1,0 +1,5 @@
+{
+  "name": "SmartFinance AI",
+  "description": "A smart field-based financial suggestion engine powered by Gemini AI. It analyzes user profiles and specific interest areas to provide tailored financial advice.",
+  "requestFramePermissions": []
+}
